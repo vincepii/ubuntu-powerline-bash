@@ -12,6 +12,8 @@ If you only want to quickly setup powerline for the bash prompt in ubuntu, this 
 
     ./install.sh
 
+Then logout and login again.
+
 ## Customization
 
 Refer to https://powerline.readthedocs.org/en/latest/configuration.html#configuration-and-customization for how to customize the installation.
