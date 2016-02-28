@@ -12,7 +12,7 @@ If you only want to quickly setup powerline for the bash prompt in ubuntu, this 
 
     ./install.sh
 
-Then logout and login again.
+Then logout and login again (if you open new terminals without logging-out first you will see some errors).
 
 ## Customization
 
