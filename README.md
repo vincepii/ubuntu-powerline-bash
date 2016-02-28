@@ -21,3 +21,7 @@ Refer to https://powerline.readthedocs.org/en/latest/configuration.html#configur
 The configuration file will be in `./.local/lib/python2.7/site-packages/powerline/config_files/config.json`
 
 ![What you get](ubuntu-powerline-bash.png "What you get")
+
+
+
+*I am not responsible if this script damages your computer, use it at your own risk and understand what it does first!*
