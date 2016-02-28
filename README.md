@@ -10,6 +10,6 @@ If you only want to quickly setup powerline for the bash prompt in ubuntu, this 
 
 ## Run
 
-  ./install.sh
+    ./install.sh
 
 
