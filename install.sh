@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 function add_line() {
   LINE="$1"
